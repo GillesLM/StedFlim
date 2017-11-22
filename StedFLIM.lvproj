@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="13008000">
+<Project Type="Project" LVVersion="17008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -92,7 +92,6 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
-				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
@@ -122,12 +121,10 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
+				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="ErrorManager.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/GeneralControlStatus.llb/ErrorManager.vi"/>
-				<Item Name="SetActiveLookupTable.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/SetActiveLookupTable.vi"/>
-				<Item Name="SetTransferParameters.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/SetTransferParameters.vi"/>
-				<Item Name="GetTransferParameters.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/GetTransferParameters.vi"/>
 				<Item Name="Handle_Edge_Pixelrate.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/Handle_Edge_Pixelrate.vi"/>
 				<Item Name="Reset_SDK_Lib.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/Reset_SDK_Lib.vi"/>
 				<Item Name="Cleanup.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/Cleanup.vi"/>
@@ -137,9 +134,6 @@
 				<Item Name="CancelImages.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/CancelImages.vi"/>
 				<Item Name="SetROI.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/SetROI.vi"/>
 				<Item Name="CloseCamera.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/CloseCamera.vi"/>
-				<Item Name="FormatSoftwareDesc.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/GeneralControlStatus.llb/FormatSoftwareDesc.vi"/>
-				<Item Name="FormatHWDESC.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/GeneralControlStatus.llb/FormatHWDESC.vi"/>
-				<Item Name="StripCamType.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/GeneralControlStatus.llb/StripCamType.vi"/>
 				<Item Name="GetCameraType.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/GeneralControlStatus.llb/GetCameraType.vi"/>
 				<Item Name="AllocateBuffer.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/AllocateBuffer.vi"/>
 				<Item Name="CamLinkSetImageParameters.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/CamLinkSetImageParameters.vi"/>
@@ -153,11 +147,6 @@
 				<Item Name="SetPixelRate.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/SetPixelRate.vi"/>
 				<Item Name="SetRecordingState.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/RecordingControl.llb/SetRecordingState.vi"/>
 				<Item Name="GetDescription.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/GetDescription.vi"/>
-				<Item Name="pcolabview.dll" Type="Document" URL="/&lt;userlib&gt;/PCO Edge/pcolabview.dll"/>
-				<Item Name="CheckDelayExposureTime.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/TimingControl.llb/CheckDelayExposureTime.vi"/>
-				<Item Name="GetADCOperation.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/GetADCOperation.vi"/>
-				<Item Name="testROIlimits.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/testROIlimits.vi"/>
-				<Item Name="ROIAdjuster.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Sensor.llb/ROIAdjuster.vi"/>
 				<Item Name="Grab images from pco.edge or pco.pixelfly USB.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/Grab images from pco.edge or pco.pixelfly USB.vi"/>
 				<Item Name="GetImageBuffer2D.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/GetImageBuffer2D.vi"/>
 				<Item Name="GetImageEX.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/GetImageEX.vi"/>
@@ -165,7 +154,6 @@
 				<Item Name="OpenCameraEx.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/APIManagement.llb/OpenCameraEx.vi"/>
 				<Item Name="SetStorageMode.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/RecordingControl.llb/SetStorageMode.vi"/>
 				<Item Name="GetNumberOfImagesInSegment.vi" Type="VI" URL="/&lt;userlib&gt;/PCO Edge/BufferData.llb/GetNumberOfImagesInSegment.vi"/>
-				<Item Name="SC2_Cam.dll" Type="Document" URL="/&lt;userlib&gt;/PCO Edge/SC2_Cam.dll"/>
 			</Item>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -173,7 +161,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SC2_Cam.dll" Type="Document" URL="../../../../../../../../../../Program Files (x86)/Digital Camera Toolbox/pco.runtime/bin/SC2_Cam.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test Unit" Type="EXE">
@@ -307,43 +294,28 @@
 				<Property Name="DistPart[3].productName" Type="Str">NI-VISA Runtime 15.0.1</Property>
 				<Property Name="DistPart[3].upgradeCode" Type="Str">{8627993A-3F66-483C-A562-0D3BA3F267B1}</Property>
 				<Property Name="DistPart[4].flavorID" Type="Str">DefaultFull</Property>
-				<Property Name="DistPart[4].productID" Type="Str">{8B9F3A2F-2B27-4893-BC35-556873EDA6EF}</Property>
-				<Property Name="DistPart[4].productName" Type="Str">NI LabVIEW Run-Time Engine 2013 SP1 f5</Property>
+				<Property Name="DistPart[4].productID" Type="Str">{F8C28DE1-1E13-4D22-AC1B-A09B86F991EC}</Property>
+				<Property Name="DistPart[4].productName" Type="Str">NI LabVIEW Runtime 2017 f2</Property>
 				<Property Name="DistPart[4].SoftDep[0].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[0].productName" Type="Str">NI LabVIEW 2013 SP1 Run-Time Engine Non-English Support.</Property>
-				<Property Name="DistPart[4].SoftDep[0].upgradeCode" Type="Str">{DDE96050-C9ED-4EAC-B310-5EA217776FEA}</Property>
+				<Property Name="DistPart[4].SoftDep[0].productName" Type="Str">NI ActiveX Container</Property>
+				<Property Name="DistPart[4].SoftDep[0].upgradeCode" Type="Str">{1038A887-23E1-4289-B0BD-0C4B83C6BA21}</Property>
 				<Property Name="DistPart[4].SoftDep[1].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[1].productName" Type="Str">NI ActiveX Container</Property>
-				<Property Name="DistPart[4].SoftDep[1].upgradeCode" Type="Str">{1038A887-23E1-4289-B0BD-0C4B83C6BA21}</Property>
-				<Property Name="DistPart[4].SoftDep[10].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[10].productName" Type="Str">NI Error Reporting 2013</Property>
-				<Property Name="DistPart[4].SoftDep[10].upgradeCode" Type="Str">{42E818C6-2B08-4DE7-BD91-B0FD704C119A}</Property>
+				<Property Name="DistPart[4].SoftDep[1].productName" Type="Str">NI Logos 5.9</Property>
+				<Property Name="DistPart[4].SoftDep[1].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
 				<Property Name="DistPart[4].SoftDep[2].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[2].productName" Type="Str">NI System Web Server 13.0</Property>
-				<Property Name="DistPart[4].SoftDep[2].upgradeCode" Type="Str">{FCF64B73-B7D4-4971-8F11-24BAF7CC3E6C}</Property>
+				<Property Name="DistPart[4].SoftDep[2].productName" Type="Str">NI TDM Streaming 17.0</Property>
+				<Property Name="DistPart[4].SoftDep[2].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
 				<Property Name="DistPart[4].SoftDep[3].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[3].productName" Type="Str">Math Kernel Libraries</Property>
-				<Property Name="DistPart[4].SoftDep[3].upgradeCode" Type="Str">{EA05DCF9-F239-4387-8904-04D678031F6B}</Property>
+				<Property Name="DistPart[4].SoftDep[3].productName" Type="Str">NI VC2008MSMs</Property>
+				<Property Name="DistPart[4].SoftDep[3].upgradeCode" Type="Str">{FDA3F8BB-BAA9-45D7-8DC7-22E1F5C76315}</Property>
 				<Property Name="DistPart[4].SoftDep[4].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[4].productName" Type="Str">NI Logos 5.5</Property>
-				<Property Name="DistPart[4].SoftDep[4].upgradeCode" Type="Str">{5E4A4CE3-4D06-11D4-8B22-006008C16337}</Property>
+				<Property Name="DistPart[4].SoftDep[4].productName" Type="Str">NI VC2010MSMs</Property>
+				<Property Name="DistPart[4].SoftDep[4].upgradeCode" Type="Str">{EFBA6F9E-F934-4BD7-AC51-60CCA480489C}</Property>
 				<Property Name="DistPart[4].SoftDep[5].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[5].productName" Type="Str">NI TDM Streaming 2.4</Property>
-				<Property Name="DistPart[4].SoftDep[5].upgradeCode" Type="Str">{4CD11BE6-6BB7-4082-8A27-C13771BC309B}</Property>
-				<Property Name="DistPart[4].SoftDep[6].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[6].productName" Type="Str">NI LabVIEW 2013 Web Server</Property>
-				<Property Name="DistPart[4].SoftDep[6].upgradeCode" Type="Str">{A66A5CC8-EEB5-4982-8B92-F591AF36060E}</Property>
-				<Property Name="DistPart[4].SoftDep[7].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[7].productName" Type="Str">NI LabVIEW 2013 Real-Time NBFifo</Property>
-				<Property Name="DistPart[4].SoftDep[7].upgradeCode" Type="Str">{76E4763E-0DC4-4195-BC50-084193FFA84B}</Property>
-				<Property Name="DistPart[4].SoftDep[8].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[8].productName" Type="Str">NI VC2008MSMs</Property>
-				<Property Name="DistPart[4].SoftDep[8].upgradeCode" Type="Str">{FDA3F8BB-BAA9-45D7-8DC7-22E1F5C76315}</Property>
-				<Property Name="DistPart[4].SoftDep[9].exclude" Type="Bool">false</Property>
-				<Property Name="DistPart[4].SoftDep[9].productName" Type="Str">NI VC2010MSMs</Property>
-				<Property Name="DistPart[4].SoftDep[9].upgradeCode" Type="Str">{EFBA6F9E-F934-4BD7-AC51-60CCA480489C}</Property>
-				<Property Name="DistPart[4].SoftDepCount" Type="Int">11</Property>
-				<Property Name="DistPart[4].upgradeCode" Type="Str">{A661D981-0A3B-4081-A5B5-1FAA03CFAF84}</Property>
+				<Property Name="DistPart[4].SoftDep[5].productName" Type="Str">NI Error Reporting 2017</Property>
+				<Property Name="DistPart[4].SoftDep[5].upgradeCode" Type="Str">{42E818C6-2B08-4DE7-BD91-B0FD704C119A}</Property>
+				<Property Name="DistPart[4].SoftDepCount" Type="Int">6</Property>
+				<Property Name="DistPart[4].upgradeCode" Type="Str">{620DBAE1-B159-4204-8186-0813C8A6434C}</Property>
 				<Property Name="DistPartCount" Type="Int">5</Property>
 				<Property Name="INST_author" Type="Str">Hewlett-Packard Company</Property>
 				<Property Name="INST_autoIncrement" Type="Bool">true</Property>
@@ -355,7 +327,7 @@
 				<Property Name="INST_productName" Type="Str">StedFLIM</Property>
 				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
-				<Property Name="InstSpecVersion" Type="Str">13018020</Property>
+				<Property Name="InstSpecVersion" Type="Str">17008011</Property>
 				<Property Name="MSI_arpCompany" Type="Str">CNRS</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
 				<Property Name="MSI_distID" Type="Str">{AE2BDF54-CB02-4BB7-B436-2851254EB38F}</Property>
