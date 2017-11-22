@@ -1,0 +1,170 @@
+Time stamp	Event	Event Data
+17:24:59 01/03/2017	Laser Ctrl Initialised	True
+17:32:09 01/03/2017	Laser Ctrl Initialised	True
+17:33:38 01/03/2017	Laser Ctrl Initialised	True
+17:35:02 01/03/2017	Laser Ctrl Initialised	True
+17:35:13 01/03/2017	Ask to Connect the Laser	
+17:35:13 01/03/2017	Connected	
+17:48:05 01/03/2017	Laser Ctrl Initialised	True
+17:48:08 01/03/2017	Ask to Connect the Laser	
+17:48:08 01/03/2017	Connected	
+17:48:15 01/03/2017	Ask to Set Laser Amp. Freq	2
+17:48:15 01/03/2017	Laser Amp. Freq Set	
+17:49:12 01/03/2017	Laser Ctrl Initialised	True
+17:49:15 01/03/2017	Ask to Connect the Laser	
+17:49:15 01/03/2017	Connected	
+17:49:21 01/03/2017	Ask to Set Laser Amp. Freq	5
+17:49:21 01/03/2017	Laser Amp. Freq Set	
+09:58:17 02/03/2017	Laser Ctrl Initialised	True
+09:58:22 02/03/2017	Ask to Connect the Laser	
+09:58:22 02/03/2017	Connected	
+09:58:40 02/03/2017	Ask to Set Laser Amp. Freq	10
+09:58:40 02/03/2017	Laser Amp. Freq Set	
+10:03:43 02/03/2017	Laser Ctrl Initialised	True
+10:03:51 02/03/2017	Ask to Connect the Laser	
+10:03:51 02/03/2017	Connected	
+10:03:57 02/03/2017	Ask the switch on the Laser	
+10:03:57 02/03/2017	Laser activated	
+10:03:59 02/03/2017	Ask to switch OFF the laser	
+10:03:59 02/03/2017	Laser disactivated	
+10:13:38 02/03/2017	Laser Ctrl Initialised	True
+10:14:50 02/03/2017	Ask to Connect the Laser	
+10:14:50 02/03/2017	Connected	
+10:15:11 02/03/2017	Laser Ctrl Initialised	True
+10:15:21 02/03/2017	Ask to Connect the Laser	
+10:15:21 02/03/2017	Connected	
+10:16:49 02/03/2017	Laser Ctrl Initialised	True
+10:16:54 02/03/2017	Ask to Connect the Laser	
+10:16:54 02/03/2017	Connected	
+10:17:06 02/03/2017	Ask the switch on the Laser	
+10:17:06 02/03/2017	Laser activated	
+10:17:09 02/03/2017	Ask to switch OFF the laser	
+10:17:09 02/03/2017	Laser disactivated	
+10:17:23 02/03/2017	Ask the switch on the Laser	
+10:17:23 02/03/2017	Laser activated	
+10:17:25 02/03/2017	Ask to switch OFF the laser	
+10:17:25 02/03/2017	Laser disactivated	
+10:17:34 02/03/2017	Ask to Set Laser Amp. Freq	100
+10:17:34 02/03/2017	Laser Amp. Freq Set	
+10:17:57 02/03/2017	Laser Ctrl Initialised	True
+10:18:02 02/03/2017	Ask to Connect the Laser	
+10:18:02 02/03/2017	Connected	
+10:18:08 02/03/2017	Ask to Set Laser Amp. Freq	1
+10:18:08 02/03/2017	Laser Amp. Freq Set	
+10:37:00 02/03/2017	Laser Ctrl Initialised	True
+10:38:10 02/03/2017	Laser Ctrl Initialised	True
+10:38:44 02/03/2017	Laser Ctrl Initialised	True
+10:40:00 02/03/2017	Laser Ctrl Initialised	True
+10:40:17 02/03/2017	Ask to Connect the Laser	
+10:40:17 02/03/2017	Connected	
+10:40:25 02/03/2017	Laser Ctrl Initialised	True
+10:40:39 02/03/2017	Ask to Connect the Laser	
+10:40:39 02/03/2017	Connected	
+10:40:48 02/03/2017	Laser Ctrl Initialised	True
+10:45:36 02/03/2017	Laser Ctrl Initialised	True
+10:46:22 02/03/2017	Laser Ctrl Initialised	True
+10:46:28 02/03/2017	Ask to Connect the Laser	
+10:46:28 02/03/2017	Connected	
+10:46:39 02/03/2017	Laser Ctrl Initialised	True
+10:50:40 02/03/2017	Laser Ctrl Initialised	True
+10:51:14 02/03/2017	Laser Ctrl Initialised	True
+10:52:03 02/03/2017	Laser Ctrl Initialised	True
+10:53:06 02/03/2017	Laser Ctrl Initialised	True
+10:53:35 02/03/2017	Laser Ctrl Initialised	True
+10:54:08 02/03/2017	Ask to Connect the Laser	
+10:54:08 02/03/2017	Connected	
+10:54:52 02/03/2017	Laser Ctrl Initialised	True
+10:55:32 02/03/2017	Laser Ctrl Initialised	True
+10:56:26 02/03/2017	Laser Ctrl Initialised	True
+10:57:45 02/03/2017	Laser Ctrl Initialised	True
+10:58:07 02/03/2017	Ask to Connect the Laser	
+10:58:07 02/03/2017	Connected	
+10:58:18 02/03/2017	Ask to Set Laser Amp. Freq	500
+10:58:18 02/03/2017	Laser Amp. Freq Set	
+11:01:56 02/03/2017	Laser Ctrl Initialised	True
+11:02:01 02/03/2017	Ask to Connect the Laser	
+11:02:01 02/03/2017	Connected	
+11:02:17 02/03/2017	Ask to Set Laser Amp. Freq	1
+11:02:17 02/03/2017	Laser Amp. Freq Set	
+11:02:23 02/03/2017	Ask to Set Laser Amp. Freq	1
+11:02:23 02/03/2017	Laser Amp. Freq Set	
+11:02:44 02/03/2017	Ask the switch on the Laser	
+11:02:44 02/03/2017	Laser activated	
+11:02:45 02/03/2017	Ask to switch OFF the laser	
+11:02:45 02/03/2017	Laser disactivated	
+11:02:54 02/03/2017	Laser Ctrl Initialised	True
+11:03:00 02/03/2017	Ask to Connect the Laser	
+11:03:00 02/03/2017	Connected	
+11:03:10 02/03/2017	Laser Ctrl Initialised	True
+11:03:16 02/03/2017	Ask to Connect the Laser	
+11:03:16 02/03/2017	Connected	
+11:03:26 02/03/2017	Ask to Set Laser Amp. Freq	2
+11:03:26 02/03/2017	Laser Amp. Freq Set	
+11:05:17 02/03/2017	Laser Ctrl Initialised	True
+11:05:30 02/03/2017	Ask to Connect the Laser	
+11:05:30 02/03/2017	Connected	
+11:09:14 02/03/2017	Laser Ctrl Initialised	True
+11:09:19 02/03/2017	Ask to Connect the Laser	
+11:09:19 02/03/2017	Connected	
+11:09:24 02/03/2017	Ask the switch on the Laser	
+11:09:24 02/03/2017	Laser activated	
+11:09:26 02/03/2017	Ask to switch OFF the laser	
+11:09:26 02/03/2017	Laser disactivated	
+11:09:29 02/03/2017	Ask to Set Laser Amp. Freq	1
+11:09:29 02/03/2017	Laser Amp. Freq Set	
+11:09:33 02/03/2017	Ask to Set Laser Amp. Freq	2
+11:09:33 02/03/2017	Laser Amp. Freq Set	
+11:11:08 02/03/2017	Laser Ctrl Initialised	True
+11:11:34 02/03/2017	Ask to Connect the Laser	
+11:11:34 02/03/2017	Connected	
+11:19:32 02/03/2017	Laser Ctrl Initialised	True
+11:19:36 02/03/2017	Ask to Connect the Laser	
+11:19:36 02/03/2017	Connected	
+11:20:16 02/03/2017	Laser Ctrl Initialised	True
+11:21:14 02/03/2017	Laser Ctrl Initialised	True
+11:26:40 02/03/2017	Laser Ctrl Initialised	True
+11:26:52 02/03/2017	Ask to Connect the Laser	
+11:26:52 02/03/2017	Connected	
+11:27:52 02/03/2017	Laser Ctrl Initialised	True
+11:27:56 02/03/2017	Ask to Connect the Laser	
+11:27:56 02/03/2017	Connected	
+11:30:06 02/03/2017	Laser Ctrl Initialised	True
+11:31:32 02/03/2017	Laser Ctrl Initialised	True
+11:33:01 02/03/2017	Laser Ctrl Initialised	True
+11:33:43 02/03/2017	Laser Ctrl Initialised	True
+11:55:27 02/03/2017	Laser Ctrl Initialised	True
+11:55:33 02/03/2017	Ask to Connect the Laser	
+11:55:33 02/03/2017	Connected	
+13:23:47 02/03/2017	Laser Ctrl Initialised	True
+16:31:33 07/03/2017	Laser Ctrl Initialised	True
+16:31:39 07/03/2017	Ask to Connect the Laser	
+16:31:39 07/03/2017	Connected	
+16:31:43 07/03/2017	Ask the switch on the Laser	
+16:31:43 07/03/2017	Laser activated	
+16:31:44 07/03/2017	Ask to switch OFF the laser	
+16:31:44 07/03/2017	Laser disactivated	
+16:31:49 07/03/2017	Ask to Set Laser Amp. Freq	100
+16:31:49 07/03/2017	Laser Amp. Freq Set	
+16:32:00 07/03/2017	Ask to Set PulsePicker	120
+16:32:00 07/03/2017	Pulse Picker Set	
+17:01:20 07/03/2017	Laser Ctrl Initialised	True
+17:01:24 07/03/2017	Ask to Connect the Laser	
+17:01:24 07/03/2017	Connected	
+17:02:09 07/03/2017	Laser Ctrl Initialised	True
+17:02:18 07/03/2017	Ask to Connect the Laser	
+17:02:23 07/03/2017	Connected	
+17:05:46 07/03/2017	Laser Ctrl Initialised	True
+17:05:51 07/03/2017	Ask to Connect the Laser	
+17:05:51 07/03/2017	Connected	
+17:06:06 07/03/2017	Laser Ctrl Initialised	True
+17:06:12 07/03/2017	Ask to Connect the Laser	
+17:06:12 07/03/2017	Connected	
+17:06:15 07/03/2017	Ask the switch on the Laser	
+17:06:15 07/03/2017	Laser activated	
+17:06:16 07/03/2017	Ask to switch OFF the laser	
+17:06:16 07/03/2017	Laser disactivated	
+17:06:20 07/03/2017	Ask to Set Laser Amp. Freq	200
+17:06:20 07/03/2017	Laser Amp. Freq Set	
+17:06:25 07/03/2017	Ask to Set PulsePicker	300
+17:06:25 07/03/2017	Pulse Picker Set	
+16:12:22 09/03/2017	Laser Ctrl Initialised	True

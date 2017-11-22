@@ -1,0 +1,162 @@
+Time stamp	Event	Event Data
+17:24:59 01/03/2017	Camera Ctrl Initialised	True
+17:32:09 01/03/2017	Camera Ctrl Initialised	True
+17:33:38 01/03/2017	Camera Ctrl Initialised	True
+17:35:02 01/03/2017	Camera Ctrl Initialised	True
+17:35:09 01/03/2017	Ask to Connect the Camera	
+17:35:09 01/03/2017	Connected	
+17:35:31 01/03/2017	Ask to change the Integration Time	100
+17:35:31 01/03/2017	Integration time Set	
+17:35:35 01/03/2017	Ask the camera a continious Acqusition	
+17:35:35 01/03/2017	Acquiring	
+17:35:36 01/03/2017	Ask the camera to Stop Acquiring	
+17:35:36 01/03/2017	Acquiring Stopped	
+17:48:05 01/03/2017	Camera Ctrl Initialised	True
+17:49:12 01/03/2017	Camera Ctrl Initialised	True
+09:58:17 02/03/2017	Camera Ctrl Initialised	True
+09:58:19 02/03/2017	Ask to Connect the Camera	
+09:58:19 02/03/2017	Connected	
+09:58:51 02/03/2017	Ask to change the Integration Time	10
+09:58:51 02/03/2017	Integration time Set	
+09:58:53 02/03/2017	Ask the camera a continious Acqusition	
+09:58:53 02/03/2017	Acquiring	
+09:58:54 02/03/2017	Ask the camera to Stop Acquiring	
+09:58:54 02/03/2017	Acquiring Stopped	
+10:03:43 02/03/2017	Camera Ctrl Initialised	True
+10:03:47 02/03/2017	Ask to Connect the Camera	
+10:03:47 02/03/2017	Connected	
+10:13:38 02/03/2017	Camera Ctrl Initialised	True
+10:13:44 02/03/2017	Ask to Connect the Camera	
+10:13:49 02/03/2017	Connected	
+10:15:11 02/03/2017	Camera Ctrl Initialised	True
+10:15:15 02/03/2017	Ask to Connect the Camera	
+10:15:15 02/03/2017	Connected	
+10:16:49 02/03/2017	Camera Ctrl Initialised	True
+10:16:51 02/03/2017	Ask to Connect the Camera	
+10:16:51 02/03/2017	Connected	
+10:17:57 02/03/2017	Camera Ctrl Initialised	True
+10:17:59 02/03/2017	Ask to Connect the Camera	
+10:17:59 02/03/2017	Connected	
+10:37:00 02/03/2017	Camera Ctrl Initialised	True
+10:38:10 02/03/2017	Camera Ctrl Initialised	True
+10:38:44 02/03/2017	Camera Ctrl Initialised	True
+10:40:00 02/03/2017	Camera Ctrl Initialised	True
+10:40:14 02/03/2017	Ask to Connect the Camera	
+10:40:14 02/03/2017	Connected	
+10:40:25 02/03/2017	Camera Ctrl Initialised	True
+10:40:37 02/03/2017	Ask to Connect the Camera	
+10:40:37 02/03/2017	Connected	
+10:40:48 02/03/2017	Camera Ctrl Initialised	True
+10:45:36 02/03/2017	Camera Ctrl Initialised	True
+10:46:22 02/03/2017	Camera Ctrl Initialised	True
+10:46:25 02/03/2017	Ask to Connect the Camera	
+10:46:25 02/03/2017	Connected	
+10:46:39 02/03/2017	Camera Ctrl Initialised	True
+10:50:40 02/03/2017	Camera Ctrl Initialised	True
+10:50:52 02/03/2017	Ask to Connect the Camera	
+10:50:52 02/03/2017	Connected	
+10:51:14 02/03/2017	Camera Ctrl Initialised	True
+10:51:24 02/03/2017	Ask to Connect the Camera	
+10:51:24 02/03/2017	Connected	
+10:52:03 02/03/2017	Camera Ctrl Initialised	True
+10:53:06 02/03/2017	Camera Ctrl Initialised	True
+10:53:16 02/03/2017	Ask to Connect the Camera	
+10:53:16 02/03/2017	Connected	
+10:53:35 02/03/2017	Camera Ctrl Initialised	True
+10:53:41 02/03/2017	Ask to Connect the Camera	
+10:53:41 02/03/2017	Connected	
+10:54:52 02/03/2017	Camera Ctrl Initialised	True
+10:55:32 02/03/2017	Camera Ctrl Initialised	True
+10:55:42 02/03/2017	Ask to Connect the Camera	
+10:55:42 02/03/2017	Connected	
+10:56:26 02/03/2017	Camera Ctrl Initialised	True
+10:56:34 02/03/2017	Ask to Connect the Camera	
+10:56:34 02/03/2017	Connected	
+10:57:45 02/03/2017	Camera Ctrl Initialised	True
+10:58:05 02/03/2017	Ask to Connect the Camera	
+10:58:05 02/03/2017	Connected	
+11:01:56 02/03/2017	Camera Ctrl Initialised	True
+11:01:58 02/03/2017	Ask to Connect the Camera	
+11:01:58 02/03/2017	Connected	
+11:02:28 02/03/2017	Ask the camera a continious Acqusition	
+11:02:28 02/03/2017	Acquiring	
+11:02:29 02/03/2017	Ask the camera to Stop Acquiring	
+11:02:29 02/03/2017	Acquiring Stopped	
+11:02:29 02/03/2017	Ask the camera a continious Acqusition	
+11:02:29 02/03/2017	Acquiring	
+11:02:31 02/03/2017	Ask to change the Integration Time	100
+11:02:31 02/03/2017	Integration time Set	
+11:02:54 02/03/2017	Camera Ctrl Initialised	True
+11:02:57 02/03/2017	Ask to Connect the Camera	
+11:02:57 02/03/2017	Connected	
+11:03:10 02/03/2017	Camera Ctrl Initialised	True
+11:05:17 02/03/2017	Camera Ctrl Initialised	True
+11:05:28 02/03/2017	Ask to Connect the Camera	
+11:05:28 02/03/2017	Connected	
+11:09:14 02/03/2017	Camera Ctrl Initialised	True
+11:09:16 02/03/2017	Ask to Connect the Camera	
+11:09:16 02/03/2017	Connected	
+11:09:40 02/03/2017	Ask to change the Integration Time	1
+11:09:40 02/03/2017	Integration time Set	
+11:11:08 02/03/2017	Camera Ctrl Initialised	True
+11:11:19 02/03/2017	Ask to Connect the Camera	
+11:11:19 02/03/2017	Connected	
+11:19:32 02/03/2017	Camera Ctrl Initialised	True
+11:19:34 02/03/2017	Ask to Connect the Camera	
+11:19:34 02/03/2017	Connected	
+11:19:40 02/03/2017	Ask the camera a continious Acqusition	
+11:19:40 02/03/2017	Acquiring	
+11:20:16 02/03/2017	Camera Ctrl Initialised	True
+11:20:21 02/03/2017	Ask to Connect the Camera	
+11:20:21 02/03/2017	Connected	
+11:20:25 02/03/2017	Ask the camera a continious Acqusition	
+11:20:25 02/03/2017	Acquiring	
+11:21:14 02/03/2017	Camera Ctrl Initialised	True
+11:21:16 02/03/2017	Ask to Connect the Camera	
+11:21:16 02/03/2017	Connected	
+11:21:20 02/03/2017	Ask the camera a continious Acqusition	
+11:21:20 02/03/2017	Acquiring	
+11:26:40 02/03/2017	Camera Ctrl Initialised	True
+11:26:50 02/03/2017	Ask to Connect the Camera	
+11:26:50 02/03/2017	Connected	
+11:27:52 02/03/2017	Camera Ctrl Initialised	True
+11:27:54 02/03/2017	Ask to Connect the Camera	
+11:27:54 02/03/2017	Connected	
+11:28:00 02/03/2017	Ask to change the Integration Time	1
+11:28:00 02/03/2017	Integration time Set	
+11:28:03 02/03/2017	Ask the camera a continious Acqusition	
+11:28:03 02/03/2017	Acquiring	
+11:30:06 02/03/2017	Camera Ctrl Initialised	True
+11:30:10 02/03/2017	Ask to Connect the Camera	
+11:30:10 02/03/2017	Connected	
+11:30:22 02/03/2017	Ask the camera a continious Acqusition	
+11:30:22 02/03/2017	Acquiring	
+11:31:32 02/03/2017	Camera Ctrl Initialised	True
+11:31:34 02/03/2017	Ask to Connect the Camera	
+11:31:34 02/03/2017	Connected	
+11:31:45 02/03/2017	Ask the camera a continious Acqusition	
+11:31:45 02/03/2017	Acquiring	
+11:33:01 02/03/2017	Camera Ctrl Initialised	True
+11:33:12 02/03/2017	Ask to Connect the Camera	
+11:33:12 02/03/2017	Connected	
+11:33:23 02/03/2017	Ask the camera a continious Acqusition	
+11:33:23 02/03/2017	Acquiring	
+11:33:25 02/03/2017	Ask the camera to Stop Acquiring	
+11:33:25 02/03/2017	Acquiring Stopped	
+11:33:43 02/03/2017	Camera Ctrl Initialised	True
+11:55:27 02/03/2017	Camera Ctrl Initialised	True
+11:55:29 02/03/2017	Ask to Connect the Camera	
+11:55:29 02/03/2017	Connected	
+13:23:47 02/03/2017	Camera Ctrl Initialised	True
+16:31:33 07/03/2017	Camera Ctrl Initialised	True
+16:31:35 07/03/2017	Ask to Connect the Camera	
+16:31:35 07/03/2017	Connected	
+16:32:11 07/03/2017	Ask to change the Integration Time	100
+16:32:11 07/03/2017	Integration time Set	
+17:01:20 07/03/2017	Camera Ctrl Initialised	True
+17:01:22 07/03/2017	Ask to Connect the Camera	
+17:01:22 07/03/2017	Connected	
+17:02:09 07/03/2017	Camera Ctrl Initialised	True
+17:05:46 07/03/2017	Camera Ctrl Initialised	True
+17:06:06 07/03/2017	Camera Ctrl Initialised	True
+16:12:21 09/03/2017	Camera Ctrl Initialised	True
