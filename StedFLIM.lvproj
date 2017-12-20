@@ -73,6 +73,7 @@
 		<Item Name="Simple Grab image.vi" Type="VI" URL="../Devices/Camera/Test Unit/Simple Grab image.vi"/>
 		<Item Name="Test Unit Camera1.vi" Type="VI" URL="../Devices/Camera/Test Unit/Test Unit Camera1.vi"/>
 		<Item Name="WaitFor2DBufferExample.vi" Type="VI" URL="../Devices/Camera/Test Unit/WaitFor2DBufferExample.vi"/>
+		<Item Name="PulsePickerValues.ctl" Type="VI" URL="../Devices/PulsePickerValues.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
